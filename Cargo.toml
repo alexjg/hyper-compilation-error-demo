@@ -1,0 +1,10 @@
+[package]
+name = "hyper-problem-demo"
+version = "0.1.0"
+authors = ["Alex Good <alex@makerlabs.co.uk>"]
+
+[dependencies]
+futures = "0.1"
+
+[dependencies.hyper]
+git = "https://github.com/hyperium/hyper"
